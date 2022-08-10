@@ -10,10 +10,10 @@ function NavBar(args) {
 						<img src={logo} alt='logo' />
 					</div>
 					<div className='nav-right'>
-						<a href=''>Home</a>
+						<a href='www.google.ro'>Home</a>
 
-						<a href=''>Despre noi</a>
-						<a href=''>Preturi</a>
+						<a href='www.google.ro'>Despre noi</a>
+						<a href='www.google.ro'>Preturi</a>
 					</div>
 				</div>
 			</div>

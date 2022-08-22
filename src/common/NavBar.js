@@ -1,10 +1,10 @@
 import "./NavBar.css";
-import logo from "../views/logo.PNG";
+import logo from "./logo.png";
 
-function NavBar(args) {
+function NavBar() {
 	return (
 		<>
-			<div className='nav'>
+			<div className='nav '>
 				<div className='nav-container'>
 					<div className='nav-left'>
 						<img src={logo} alt='logo' />

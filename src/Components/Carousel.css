@@ -1,0 +1,13 @@
+.carousel-container {
+    max-height: 700px;
+    object-fit: contain;
+    transition: all .6s ease-in-out;
+}
+
+.carousel-container:hover {
+    transform: scale(1.1);
+}
+
+.main-container {
+    object-fit: contain;
+}

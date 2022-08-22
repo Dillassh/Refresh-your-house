@@ -1,10 +1,12 @@
-import slide1 from "./slide1.jpg";
 import "./Home.css";
+import SlidingImg from "../Components/Carousel";
+import Experience from "../Components/home/Experience";
 
 function Home() {
 	return (
 		<div>
-			<img src={slide1} alt='slide1' />
+			<SlidingImg />
+			<Experience />
 		</div>
 	);
 }
